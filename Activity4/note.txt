@@ -1,0 +1,3 @@
+NOTE:
+
+The activity wasn't deployed on github.io due to its dynamic PHP content, which github.io doesn't support.
